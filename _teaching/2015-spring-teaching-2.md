@@ -4,7 +4,7 @@ collection: teaching
 type: "预算影响分析"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University "
-date: 2019
+date: 2019.01-2019.12
 location: 
 ---
 
